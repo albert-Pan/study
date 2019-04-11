@@ -1,4 +1,4 @@
-package com.pw.study.arithmetic.sort.model;
+package com.pw.study.arithmetic.model;
 
 import java.util.Random;
 

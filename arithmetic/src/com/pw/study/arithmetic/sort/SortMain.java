@@ -1,7 +1,7 @@
 package com.pw.study.arithmetic.sort;
 
 
-import com.pw.study.arithmetic.sort.model.Data;
+import com.pw.study.arithmetic.model.Data;
 
 public class SortMain {
 
