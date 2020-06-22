@@ -1,4 +1,4 @@
-package com.pw.study.arithmetic.leetCode;
+package com.pw.study.arithmetic.leetcode;
 
 public class Solution_14 {
     public String longestCommonPrefix(String[] strs) {

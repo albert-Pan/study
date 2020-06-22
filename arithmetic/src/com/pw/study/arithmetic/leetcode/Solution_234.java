@@ -1,4 +1,4 @@
-package com.pw.study.arithmetic.leetCode;
+package com.pw.study.arithmetic.leetcode;
 
 import com.pw.study.arithmetic.model.ListNode;
 

@@ -1,4 +1,4 @@
-package com.pw.study.arithmetic.leetCode;
+package com.pw.study.arithmetic.leetcode;
 
 import java.util.Arrays;
 import java.util.HashSet;
@@ -37,8 +37,9 @@ public class Solution_820 {
             }
         }
         int ans = 0;
-        for (String word: set)
+        for (String word: set) {
             ans += word.length() + 1;
+        }
         return ans;
 
     }

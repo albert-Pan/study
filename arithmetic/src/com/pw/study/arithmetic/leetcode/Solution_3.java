@@ -1,4 +1,4 @@
-package com.pw.study.arithmetic.leetCode;
+package com.pw.study.arithmetic.leetcode;
 
 import java.util.HashSet;
 import java.util.Set;
