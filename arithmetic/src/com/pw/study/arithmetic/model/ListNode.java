@@ -1,5 +1,4 @@
 package com.pw.study.arithmetic.model;
-
 /**
  * @author albert
  */
@@ -9,5 +8,9 @@ public class ListNode {
 
     ListNode(int x) {
         val = x;
+    }
+
+    public static void main(String[] args) {
+
     }
 }
